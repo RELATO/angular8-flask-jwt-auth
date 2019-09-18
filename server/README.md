@@ -3,6 +3,10 @@ A Simple Flask JWT Example
 
 This is a simple example of using [JSON Web Tokens](https://jwt.io/) (JWT) in a Python [Flask](https://palletsprojects.com/p/flask/) web application that provides RESTful APIs.
 
+## References
+
+https://keathmilligan.net/json-web-token-authentication-with-flask-angular
+
 ## Quick Start
 
 ### Create a Python Virtual Environment
