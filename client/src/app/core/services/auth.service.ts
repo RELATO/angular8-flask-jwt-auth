@@ -122,7 +122,9 @@ export class AuthService {
         })
       );
     } else {
-      return throwError('refresh token is expired');
+      // return throwError('refresh token is expired');
+      console.log('refresh token is expired')
+      return new Observable<string>();
     }
   }
 
